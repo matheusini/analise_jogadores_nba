@@ -16,7 +16,7 @@ A análise é baseada em um conjunto de dados contendo estatísticas totais dos 
 ## 📂 Estrutura do Projeto
 
 - `main.ipynb`: Notebook com todo o processo de análise.
-- `player_totals.csv`: Base de dados utilizada na análise (não incluída neste repositório).
+- `player_totals.csv`: Base de dados utilizada na análise.
 
 ## 📊 Etapas da Análise
 
